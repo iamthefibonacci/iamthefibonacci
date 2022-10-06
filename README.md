@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on a remote jobs recruitment app. <br>👯 I’m
-looking to collaborate on<br>🤝 I’m looking for help with the remote app.
-<br>🌱 I’m currently learning React. <br>💬 Ask me about Django. <br>⚡ Fun
+looking to collaborate on zwexchange app (check my repo)<br>🤝 I’m looking for help with the remote work app.
+<br>🌱 I’m currently learning React.js. <br>💬 Ask me anythin about Django. <br>⚡ Fun
 fact, I love Django Rest APIs religiously.
 
 
