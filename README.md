@@ -4,7 +4,7 @@
 🔭 I’m currently building a payments wallet for BlueMoney in Zambia. <br>
 👯 I’m looking to collaborate on zwexchange app (check my repo)<br>
 🤝 I’m looking also to collaborate on other dev's projects that involve Python/Django or any other 
-    language that efficiently achieves the project goal. (Am flexible in learning) <br>
+        language that efficiently achieves the project goal. (Am flexible in learning) <br>
 🌱 I’m currently learning React.js.  <br>
 ⚡ Fun fact, I love Django Rest APIs religiously. <br>
 💬 Ask me anythin about Django. <br>
