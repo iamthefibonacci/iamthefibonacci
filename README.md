@@ -3,7 +3,7 @@
 👀 Python/Django | AWS | PostgreSQL | APIs | Docker | Redis/Celery <br>
 🔭 I’m currently building a payments wallet for BlueMoney in Zambia. <br>
 👯 I’m looking to collaborate on zwexchange app (check my repo)<br>
-🤝 I’m looking also to collaborate on projects that involve Python/Django or any other 
+🤝 I’m looking also to collaborate on other dev's projects that involve Python/Django or any other 
     language that efficiently achieves the project goal. (Am flexible in learning) <br>
 🌱 I’m currently learning React.js.  <br>
 ⚡ Fun fact, I love Django Rest APIs religiously. <br>
@@ -52,8 +52,6 @@ https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bo
 https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](
 https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Code-Igniter](
-https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![FastAPI](
 https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](
@@ -84,22 +82,6 @@ https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=pos
 https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](
 https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Adobe After Effects](
-https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Audition](
-https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
-![Adobe Dreamweaver](
-https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
-![Adobe Illustrator](
-https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe InDesign](
-https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![Adobe Photoshop](
-https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](
-https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Gimp Gnu Image Manipulation Program](
-https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![NumPy](
 https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](
@@ -129,18 +111,18 @@ https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trell
 )
 # 📊 GitHub Stats:
 ![](
-https://github-readme-stats.vercel.app/api?username=mcwilton&theme=dark&hide_border=false&include_all_commits=true&count_private=false
+https://github-readme-stats.vercel.app/api?username=eltontundudev&theme=dark&hide_border=false&include_all_commits=true&count_private=false
 )<br/>
 ![](
-https://github-readme-streak-stats.herokuapp.com/?user=mcwilton&theme=dark&hide_border=false
+https://github-readme-streak-stats.herokuapp.com/?user=eltontundudev&theme=dark&hide_border=false
 )<br/>
 ![](
-https://github-readme-stats.vercel.app/api/top-langs/?username=mcwilton&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
+https://github-readme-stats.vercel.app/api/top-langs/?username=eltontundudev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
 )
 
 ## 🏆 GitHub Trophies
 ![](
-https://github-profile-trophy.vercel.app/?username=mcwilton&theme=radical&no-frame=false&no-bg=true&margin-w=4
+https://github-profile-trophy.vercel.app/?username=eltontundudev&theme=radical&no-frame=false&no-bg=true&margin-w=4
 )
 
 ### ✍️ Random Dev Quote
