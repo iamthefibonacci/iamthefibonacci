@@ -12,13 +12,6 @@
 🌐 Website: http://signallab.pythonanywhere.com/
 
 
-## 🌐 Socials:
-[![LinkedIn](
-https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-[![Twitter](
-https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)
-)
-
 # 💻 Tech Stack:
 ![CSS3](
 https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -106,9 +99,7 @@ https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&log
 https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Swagger](
 https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Trello](
-https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white
-)
+
 # 📊 GitHub Stats:
 ![](
 https://github-readme-stats.vercel.app/api?username=eltontundudev&theme=dark&hide_border=false&include_all_commits=true&count_private=false
@@ -129,10 +120,7 @@ https://github-profile-trophy.vercel.app/?username=eltontundudev&theme=radical&n
 ![](
 https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](
-https://visitcount.itsvg.in/api?id=mcwilton&icon=0&color=0)
-)
+https://visitcount.itsvg.in/api?id=mcwilton&icon=0&color=0))
