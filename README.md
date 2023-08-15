@@ -1,8 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on a remote jobs recruitment app. <br>👯 I’m
-looking to collaborate on zwexchange app (check my repo)<br>🤝 I’m looking for help with the remote work app.
-<br>🌱 I’m currently learning React.js. <br>💬 Ask me anythin about Django. <br>⚡ Fun
-fact, I love Django Rest APIs religiously.
+# 💫 About Me: 
+👋 I’m Elton, a Snr. Python/Django Developer.
+👀 Python/Django | AWS | PostgreSQL | APIs | Docker | Redis/Celery
+🔭 I’m currently building a payments wallet for BlueMoney in Zambia. <br>
+👯 I’m looking to collaborate on zwexchange app (check my repo)<br>
+🤝 I’m looking also to collaborate on projects that involve Python/Django or any other 
+    language that efficiently achieves the project goal. (Am flexible in learning)
+🌱 I’m currently learning React.js. 
+⚡ Fun fact, I love Django Rest APIs religiously.
+💬 Ask me anythin about Django.
+📫 How to reach me: eltontundudev@gmail.com
+🌐 Website: http://signallab.pythonanywhere.com/
 
 
 ## 🌐 Socials:
