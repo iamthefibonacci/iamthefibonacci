@@ -1,5 +1,5 @@
 # 💫 About Me: 
-👋 I’m Elton, a Snr. Python/Django Developer. <br>
+👋 I’m Partson, a Snr. Python/Django Developer. <br>
 ⚡ Django is my first love and I love Django Rest APIs religiously. <br>
 👀 Python/Django | AWS | PostgreSQL | APIs | Docker | Redis/Celery <br>
 🔭 I’m currently building a payments wallet for BlueMoney in Zambia. <br>
@@ -8,7 +8,7 @@
 or any other language that efficiently achieves the project goal. (Am flexible in learning) <br>
 🌱 I’m currently learning React.js.  <br>
 💬 Ask me anythin about Django. <br>
-📫 How to reach me: eltontundudev@gmail.com <br>
+📫 How to reach me: partsonmfx@gmail.com <br>
 
 
 # 💻 Tech Stack:
