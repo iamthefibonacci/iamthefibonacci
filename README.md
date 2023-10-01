@@ -8,7 +8,7 @@
 or any other language that efficiently achieves the project goal. (Am flexible in learning) <br>
 🌱 I’m currently learning React.js.  <br>
 💬 Ask me anythin about Django. <br>
-📫 How to reach me: partsonmfx@gmail.com <br>
+📫 How to reach me: ***@gmail.com <br>
 
 
 # 💻 Tech Stack:
