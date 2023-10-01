@@ -86,18 +86,18 @@ https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspbe
 
 # 📊 GitHub Stats:
 ![](
-https://github-readme-stats.vercel.app/api?username=eltontundudev&theme=dark&hide_border=false&include_all_commits=true&count_private=false
+https://github-readme-stats.vercel.app/api?username=iamthefibonacci&theme=dark&hide_border=false&include_all_commits=true&count_private=false
 )<br/>
 ![](
-https://github-readme-streak-stats.herokuapp.com/?user=eltontundudev&theme=dark&hide_border=false
+https://github-readme-streak-stats.herokuapp.com/?user=iamthefibonacci&theme=dark&hide_border=false
 )<br/>
 ![](
-https://github-readme-stats.vercel.app/api/top-langs/?username=eltontundudev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
+https://github-readme-stats.vercel.app/api/top-langs/?username=iamthefibonacci&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
 )
 
 ## 🏆 GitHub Trophies
 ![](
-https://github-profile-trophy.vercel.app/?username=eltontundudev&theme=radical&no-frame=false&no-bg=true&margin-w=4
+https://github-profile-trophy.vercel.app/?username=iamthefibonacci&theme=radical&no-frame=false&no-bg=true&margin-w=4
 )
 
 ### ✍️ Random Dev Quote
@@ -107,4 +107,4 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](
-https://visitcount.itsvg.in/api?id=mcwilton&icon=0&color=0))
+https://visitcount.itsvg.in/api?id=iamthefibonacci&icon=0&color=0))
