@@ -1,5 +1,5 @@
 # 💫 About Me: 
-👋 Hi iamthefibonacci, a Snr. Python/Django Developer. <br>
+👋 Hi iamthefibonacci, a Python/Django Developer. <br>
 ⚡ Django is my first love and I love Django Rest APIs religiously. <br>
 👀 Python/Django | AWS | PostgreSQL | APIs | Docker | Redis/Celery <br>
 🔭 I’m currently building a payments wallet for BlueMoney in Zambia. <br>
