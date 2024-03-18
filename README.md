@@ -1,5 +1,5 @@
 # 💫 About Me: 
-👋 Hi iamthefibonacci, a Python/Django Developer. <br>
+👋 Hi I am McWilton, a Python/Django Developer. <br>
 ⚡ Django is my first love and I love Django Rest APIs religiously. <br>
 👀 Python/Django | AWS | PostgreSQL | APIs | Docker | Redis/Celery <br>
 🔭 I’m currently building a payments wallet for BlueMoney in Zambia. <br>
@@ -91,4 +91,4 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](
-https://visitcount.itsvg.in/api?id=iamthefibonacci&icon=0&color=0))
+https://visitcount.itsvg.in/api?id=mcwilton&icon=0&color=0))
